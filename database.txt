@@ -1,0 +1,13 @@
+<script src="https://www.gstatic.com/firebasejs/4.12.1/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyCvF4uhrtr4fK0q8fKfldDth9dr0257x18",
+    authDomain: "gymapp-7ab3c.firebaseapp.com",
+    databaseURL: "https://gymapp-7ab3c.firebaseio.com",
+    projectId: "gymapp-7ab3c",
+    storageBucket: "gymapp-7ab3c.appspot.com",
+    messagingSenderId: "857607056717"
+  };
+  firebase.initializeApp(config);
+</script>

@@ -1,0 +1,42 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>
+      Your Fitness Home
+    </ion-title>
+    <ion-buttons start>
+        <button ion-button icon-only menuToggle>
+      <ion-icon name="menu" style="zoom:1.2"></ion-icon>
+       </button>
+      </ion-buttons>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+  <ion-list>
+    <button ion-button round full color="secondary" (click) = "addInfo()">
+      add info
+    </button>
+    <button ion-button round full color="secondary" *ngIf="isStudent" (click)= "gotoGraph()">
+     goto graph
+    </button>
+    <button ion-button round full color="secondary" *ngIf="isStudent" (click) = "trainPlan()">
+      training plan
+    </button>
+    <button ion-button round full color="secondary" *ngIf="isCoach" (click) = 'Student()'>
+     Your Student
+    </button>
+    <button ion-button round full color="secondary" *ngIf="isStudent" (click) = "Coach()">
+     select a coach
+    </button>
+  </ion-list>
+    <!-- <ion-list>
+    <ion-item *ngFor='let item of exercise'>
+      {{item}}
+    </ion-item>
+    </ion-list>
+    <ion-list>
+      <ion-item *ngFor='let item of coaches'>
+       {{item}}
+    </ion-item>
+  </ion-list> -->
+</ion-content>

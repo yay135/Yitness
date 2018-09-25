@@ -1,0 +1,28 @@
+<!--
+  Generated template for the StudentPage page.
+
+  See http://ionicframework.com/docs/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-header>
+
+  <ion-navbar>
+    <ion-title>coach</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding>
+  <ion-list>
+    <ion-item-sliding *ngFor="let student of students" #sliding>
+      <ion-item>
+        {{student}}
+      </ion-item>
+      <ion-item-options>
+        <button ion-button color="secondary" (click)="viewPlan(sliding,student)">plan</button>
+      </ion-item-options>
+  </ion-item-sliding>
+
+  </ion-list>
+</ion-content>

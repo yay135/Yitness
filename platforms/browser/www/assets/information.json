@@ -1,0 +1,244 @@
+{
+    "items": [
+      {
+          "name": "Monday",
+          "children": [
+              {
+                  "name": "Basics",
+                  "children": [
+                      {
+                          "name": "Walking",
+                          "information": "blah",
+                          "price": "5k"
+                      }
+                  ]
+              },
+              {
+                  "name": "Bodyshaping",
+                  "children": [
+                      {
+                          "name": "Cycling",
+                          "information": "blah",
+                          "price": "1h"
+                      },
+                      {
+                          "name": "Bench press",
+                          "information": "blah",
+                          "price": "20cycle"
+                      }
+                  ]
+              }
+          ]
+      },
+      {
+          "name": "Tuesday",
+          "children": [
+              {
+                  "name": "Basics",
+                  "children": [
+                      {
+                          "name": "Jogging",
+                          "information": "blah",
+                          "price": "10km"
+                      },
+                      {
+                          "name": "Walking",
+                          "information": "blah",
+                          "price": "5k"
+                      }
+                  ]
+              },
+              {
+                  "name": "Bodyshaping",
+                  "children": [
+                      {
+                          "name": "Cycling",
+                          "information": "blah",
+                          "price": "1h"
+                      },
+                      {
+                          "name": "Bench press",
+                          "information": "blah",
+                          "price": "20cycle"
+                      }
+                  ]
+              }
+          ]
+      },
+      {
+          "name": "Wednesday",
+          "children": [
+              {
+                  "name": "Basics",
+                  "children": [
+                      {
+                          "name": "Jogging",
+                          "information": "blah",
+                          "price": "10km"
+                      },
+                      {
+                          "name": "Walking",
+                          "information": "blah",
+                          "price": "5k"
+                      }
+                  ]
+              },
+              {
+                  "name": "Bodyshaping",
+                  "children": [
+                      {
+                          "name": "Cycling",
+                          "information": "blah",
+                          "price": "1h"
+                      },
+                      {
+                          "name": "Bench press",
+                          "information": "blah",
+                          "price": "20cycle"
+                      }
+                  ]
+              }
+          ]
+      },
+      {
+          "name": "Thursday",
+          "children": [
+              {
+                  "name": "Basics",
+                  "children": [
+                      {
+                          "name": "Jogging",
+                          "information": "blah",
+                          "price": "10km"
+                      },
+                      {
+                          "name": "Walking",
+                          "information": "blah",
+                          "price": "5k"
+                      }
+                  ]
+              },
+              {
+                  "name": "Bodyshaping",
+                  "children": [
+                      {
+                          "name": "Cycling",
+                          "information": "blah",
+                          "price": "1h"
+                      },
+                      {
+                          "name": "Bench press",
+                          "information": "blah",
+                          "price": "20cycle"
+                      }
+                  ]
+              }
+          ]
+      },
+      {
+          "name": "Friday",
+          "children": [
+              {
+                  "name": "Basics",
+                  "children": [
+                      {
+                          "name": "Jogging",
+                          "information": "blah",
+                          "price": "10km"
+                      },
+                      {
+                          "name": "Walking",
+                          "information": "blah",
+                          "price": "5k"
+                      }
+                  ]
+              },
+              {
+                  "name": "Bodyshaping",
+                  "children": [
+                      {
+                          "name": "Cycling",
+                          "information": "blah",
+                          "price": "1h"
+                      },
+                      {
+                          "name": "Bench press",
+                          "information": "blah",
+                          "price": "20cycle"
+                      }
+                  ]
+              }
+          ]
+      },
+      {
+          "name": "Saturday",
+          "children": [
+              {
+                  "name": "Basics",
+                  "children": [
+                      {
+                          "name": "Jogging",
+                          "information": "blah",
+                          "price": "10km"
+                      },
+                      {
+                          "name": "Walking",
+                          "information": "blah",
+                          "price": "5k"
+                      }
+                  ]
+              },
+              {
+                  "name": "Bodyshaping",
+                  "children": [
+                      {
+                          "name": "Cycling",
+                          "information": "blah",
+                          "price": "1h"
+                      },
+                      {
+                          "name": "Bench press",
+                          "information": "blah",
+                          "price": "20cycle"
+                      }
+                  ]
+              }
+          ]
+      },
+      {
+          "name": "Sunday",
+          "children": [
+              {
+                  "name": "Basics",
+                  "children": [
+                      {
+                          "name": "Jogging",
+                          "information": "blah",
+                          "price": "10km"
+                      },
+                      {
+                          "name": "Walking",
+                          "information": "blah",
+                          "price": "5k"
+                      }
+                  ]
+              },
+              {
+                  "name": "Bodyshaping",
+                  "children": [
+                      {
+                          "name": "Cycling",
+                          "information": "blah",
+                          "price": "1h"
+                      },
+                      {
+                          "name": "Bench press",
+                          "information": "blah",
+                          "price": "20cycle"
+                      }
+                  ]
+              }
+          ]
+      }
+    ]
+}
